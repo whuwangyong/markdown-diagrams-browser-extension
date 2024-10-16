@@ -51,11 +51,11 @@ var diagramsCodeLookup = {
     },
 
     // Mermaid https://github.com/knsv/mermaid
-    "mermaid": {  
-        matchRegex: /^(sequenceDiagram|graph\s+\w{2}|gantt|classDiagram|pie|gitGraph:|erDiagram|journey)\s*\n/,
-        forceSVG: true,
-        reqType: "mermaid",
-    },
+    // "mermaid": {  
+    //     matchRegex: /^(sequenceDiagram|graph\s+\w{2}|gantt|classDiagram|pie|gitGraph:|erDiagram|journey)\s*\n/,
+    //     forceSVG: true,
+    //     reqType: "mermaid",
+    // },
 
     // BPMN https://github.com/bpmn-io/bpmn-js
     "bpmn": {  
